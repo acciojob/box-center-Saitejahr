@@ -9,6 +9,7 @@ div{
 }
 h2{
 	position:absolute;
+	color: purple;
 	top:110px;
 	left:80px;
 }
